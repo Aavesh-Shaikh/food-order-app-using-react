@@ -1,4 +1,4 @@
-# I have created this App throught My Learning phase 
+# I have created this App throughout My Learning phase 
 Visit : https://meals-at-home.netlify.app
 
 
